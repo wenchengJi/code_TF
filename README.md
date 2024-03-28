@@ -23,7 +23,7 @@
 
    2.3 Typical install time on a "normal" desktop computer:
    
-       It takes several hours.
+       Installation requires several hours.
 
 
 3. Demo
@@ -58,12 +58,12 @@
 
    3.3 Expected run time for demo on a "normal" desktop computer
    
-       It takes from a few minutes to a few hours because of its randomness.
+       The run time varies depending on the randomness of the process, ranging from a few minutes to several hours.
 
 
   4. Instructions for use
      
     How to run the software on your data:
     
-    We do not have any imput data . Our data are output from the numerical simulations.
+    As our data are output from numerical simulations, no additional input data is required.
 
