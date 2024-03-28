@@ -65,5 +65,6 @@
      
     How to run the software on your data:
     
-    As our data are output from numerical simulations, no additional input data is required, so there is no need for additional software to run the data.
+    As our data are output from numerical simulations, no additional input data is required, 
+    so there is no need for additional software to run the data.
 
