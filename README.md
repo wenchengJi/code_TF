@@ -9,7 +9,7 @@
 
    1.2 Versions the software has been tested on:
    
-       gcc compiler version 14.0 tested
+       gcc compiler version 14.0
 
    1.3 Any required non-standard hardware：
    
