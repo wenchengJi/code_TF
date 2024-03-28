@@ -58,10 +58,11 @@
 
    3.3 Expected run time for demo on a "normal" desktop computer
    
-       The run time varies depending on the randomness of the process, ranging from a few minutes to several hours.
+       The run time varies depending on the randomness of the process,
+       ranging from a few minutes to several hours.
 
 
-  4. Instructions for use
+  5. Instructions for use
      
     How to run the software on your data:
     
