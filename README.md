@@ -19,6 +19,7 @@ Example
 ./a.out 11 4 300 1
 
 Output in “Search_n=*.dat”  (An example: Search_n=4_EB=11.00_L=300.0_2.dat)
+
 Three columns:
 Time;  Number of beads bound;  distance to the DBD target along the antenna direction
 
